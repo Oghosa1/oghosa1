@@ -12,7 +12,7 @@ I specialize in **high-performance apps**, modern architecture patterns (**MVVM*
 
 ### 🚀 Languages & Frameworks  
 <p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,js,ts,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,js,nodejs,express" />
 </p>
 
 ### 🔥 Backend & Databases  
