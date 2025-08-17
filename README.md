@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oghosa (Isaac Uzzi)  
+# 👋 Hi, I'm Isaac  
 
 💻 **Mobile & Full-Stack Developer | Flutter Specialist | Backend Enthusiast**  
 
