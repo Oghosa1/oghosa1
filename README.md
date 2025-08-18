@@ -24,7 +24,6 @@ I specialize in **high-performance apps**, modern architecture patterns (**MVVM*
 ### 🧰 Tools & Platforms  
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,webstorm,linux" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white" />
 </p>
 
 ---
