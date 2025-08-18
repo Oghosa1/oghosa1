@@ -13,12 +13,12 @@ I specialize in **high-performance apps**, modern architecture patterns (**MVVM*
 ### 🚀 Languages & Frameworks  
 <p>
   <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,java,js,nodejs,express" />
-<img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white" />
 </p>
 
 ### 🔥 Backend & Databases  
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,supabase, appwrite" />
+<img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white" />
 </p>
 
 ### 🧰 Tools & Platforms  
