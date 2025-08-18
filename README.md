@@ -17,7 +17,7 @@ I specialize in **high-performance apps**, modern architecture patterns (**MVVM*
 
 ### 🔥 Backend & Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,supabase" />
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,postgres,mysql,supabase, appwrite" />
 </p>
 
 ### 🧰 Tools & Platforms  
