@@ -39,7 +39,7 @@ I specialize in **high-performance apps**, modern architecture patterns (**MVVM*
 
 ---
 
-### 🎬 [MOVIEMADNESS](https://play.google.com/store/apps/details?id=com.moviemadness.app)  
+### 🎬 [MOVIEMADNESS](https://play.google.com/store/apps/details?id=com.GuerrillaDev.TrendingMovies)  
 **Stack:** Flutter, Dart, Firestore, Google Sign-In  
 - Feature-rich **movie review app** with **4000+ active users** on Play Store.  
 - Integrated Firebase Firestore (real-time DB) & Google Sign-In (auth).  
