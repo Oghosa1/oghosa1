@@ -31,7 +31,7 @@ I specialize in **high-performance apps**, modern architecture patterns (**MVVM*
 ## 📂 Featured Projects  
 
 ### 🛒 Amazon Clone (E-Commerce Store)  
-**Stack:** Flutter, Node.js, MongoDB, Google Pay API  
+**Stack:** Flutter, Node.js, MongoDB, Paystack API  
 - Built a **full-stack e-commerce mobile app** mimicking Amazon.  
 - Node.js backend for authentication, product management & order processing.  
 - Scalable MongoDB database for users and products.  
