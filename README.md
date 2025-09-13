@@ -73,12 +73,54 @@ Redeemer’s University, Osun, NG | *2018 – 2022*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>  
 
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=oghosa1&style=flat-square)
+
+ <!--Github Stats-->
+  <div align="center">
+    <img
+      width="390"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=oghosa1&theme=dark"
+      alt="@oghosa1"/> 
+
+  </div>
+
+  <p>
+   <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=oghosa1&hide_progress=true&hide_title=true&layout=normal&theme=dark" 
+    alt="oghosa1" />
+  </p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 🌍 Connect with Me  
 
 - 🌐 Website: [guerrilladev.xyz](https://guerrilladev.xyz)  
-- 📧 Email: [guerrilladev@gmail.com](mailto:guerrilladev@gmail.com)  
+- 📧 Email: [guerrilladev@gmail.com](mailto: jarviz101@gmail.com)  
 - 🐙 GitHub: [github.com/oghosa1](https://github.com/oghosa1)  
 
 ---
