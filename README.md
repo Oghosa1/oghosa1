@@ -48,8 +48,8 @@ B.Sc. Computer Science – Redeemer’s University, Osun (2018-2022)
 
 ## 📊 GitHub Pulse  
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&theme=radical&hide_rank=true&hide_stars=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&theme=radical&hide_rank=true&hide_stars=true&hide_pr=true&hide_issues=true&hide_contribs=true" alt="2025 commits only"/>
+
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical&hide_title=true" alt="Top Languages"/>
 </div>
 
