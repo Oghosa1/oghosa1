@@ -46,6 +46,19 @@ B.Sc. Computer Science – Redeemer’s University, Osun (2018-2022)
 
 ---
 
+## 📊 GitHub Pulse  
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&theme=radical&hide_rank=true&hide_stars=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical&hide_title=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=oghosa1&theme=dark" alt="Streak"/>
+</div>
+
+---
+
 ## 🌍 Let’s Connect  
 
 - 🌐 [guerrilladev.xyz](https://guerrilladev.xyz)  
