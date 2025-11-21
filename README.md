@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Isaac  
+# 👋 Hi, I’m Isaac
 
-💻 Mobile & Full-Stack Developer | Flutter Specialist | Backend Enthusiast  
+💻 Mobile & Full-Stack Developer | Flutter Specialist | Backend Enthusiast
 
 I craft **scalable mobile apps** and **robust backends** with 6+ years in the field.  
 My sweet spot is **Flutter (Dart)** on the front-end and **Firebase / Node.js / MongoDB** on the back.  
@@ -8,7 +8,7 @@ I obsess over **clean MVVM architecture**, **sub-60 fps animations**, and **zero
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 | Front-End | Back-End | Tooling |
 |-----------|----------|---------|
@@ -16,55 +16,70 @@ I obsess over **clean MVVM architecture**, **sub-60 fps animations**, and **zero
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### 🛒 Amazon Clone – Full-Stack E-Commerce  
+### 🛒 Amazon Clone – Full-Stack E-Commerce
 - **Flutter + Node.js + MongoDB + Paystack**  
 - End-to-end shopping flow: auth → checkout → webhooks.  
-- Clean architecture & 95 % code coverage.
+- Clean architecture & 95% code coverage.
 
-### 🎬 MovieMadness – 4 000+ Play-Store Users  
+### 🎬 MovieMadness – 4,000+ Play-Store Users
 - **Flutter + Firebase (Firestore + Auth)**  
 - Trailers, wishlists, reviews—real-time sync across devices.  
-- Refactored to MVVM; reduced widget rebuilds by 40 %.
+- Refactored to MVVM; reduced widget rebuilds by 40%.
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
 
 **Mobile Developer – Morayo Hospital**  
 Badagry, Lagos | Oct 2023 – Sep 2024  
-- Boosted app performance **15 %** via Riverpod & lazy-list techniques.  
+- Boosted app performance **15%** via Riverpod & lazy-list techniques.  
 - Delivered HIPAA-compliant modules (auth, tele-consult, e-prescription).  
 - Owned full life-cycle: requirements → CI/CD → Play-Store release.
 
 ---
 
-## 🎓 Education  
+## 🎓 Education
 
-B.Sc. Computer Science – Redeemer’s University, Osun (2018-2022)
+B.Sc. Computer Science – Redeemer’s University, Osun (2018–2022)
 
 ---
 
-## 📊 GitHub Pulse  
+## 📊 GitHub Pulse
 
-<!-- current-year commit counter (auto-updates) -->
 <div align="center">
+
+  <!-- Overall GitHub Stats -->
   <img height="165"
-       alt="Current-year commits"
-       src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&theme=radical&hide
+       alt="GitHub Stats for oghosa1"
+       src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&theme=radical&hide_title=true"/>
 
+  <!-- Top Languages -->
+  <img height="165"
+       alt="Top Languages for oghosa1"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical&hide_title=true"/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical&hide_title=true" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=oghosa1&theme=dark" alt="Streak"/>
+<div align="center" style="margin-top: 12px;">
+
+  <!-- Commits chart (year overview) -->
+  <img width="720"
+       alt="GitHub contribution chart for oghosa1"
+       src="https://ghchart.rshah.org/oghosa1"/>
+
+</div>
+
+<div align="center" style="margin-top: 12px;">
+  <img width="390"
+       alt="GitHub Streak for oghosa1"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=oghosa1&theme=dark"/>
 </div>
 
 ---
 
-## 🌍 Let’s Connect  
+## 🌍 Let’s Connect
 
 - 🌐 [guerrilladev.xyz](https://guerrilladev.xyz)  
 - 📧 [jarviz101@gmail.com](mailto:jarviz101@gmail.com)  
