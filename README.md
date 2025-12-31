@@ -1,90 +1,82 @@
 # 👋 Hi, I’m Isaac
 
-💻 Mobile & Full-Stack Developer | Flutter Specialist | Backend Enthusiast
+💻 **Mobile & Full-Stack Developer** | **Flutter Specialist** | Backend-Focused Engineer
 
-I craft **scalable mobile apps** and **robust backends** with 6+ years in the field.  
-My sweet spot is **Flutter (Dart)** on the front-end and **Firebase / Node.js / MongoDB** on the back.  
-I obsess over **clean MVVM architecture**, **sub-60 fps animations**, and **zero-downtime APIs**.
+I build **scalable mobile applications** and **reliable backend systems** with a strong focus on **Flutter (Dart)** on the frontend and **Firebase / Node.js / MongoDB** on the backend.  
+I prioritize **clean MVVM architecture**, **high-performance UIs**, and **maintainable, production-ready APIs**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 | Front-End | Back-End | Tooling |
-|-----------|----------|---------|
+|----------|----------|---------|
 | ![Flutter](https://skillicons.dev/icons?i=flutter) ![Dart](https://skillicons.dev/icons?i=dart) ![Kotlin](https://skillicons.dev/icons?i=kotlin) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Firebase](https://skillicons.dev/icons?i=firebase) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Postgres](https://skillicons.dev/icons?i=postgres) ![Supabase](https://skillicons.dev/icons?i=supabase) ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white) | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Android Studio](https://skillicons.dev/icons?i=androidstudio) ![Linux](https://skillicons.dev/icons?i=linux) |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 Amazon Clone – Full-Stack E-Commerce
-- **Flutter + Node.js + MongoDB + Paystack**  
-- End-to-end shopping flow: auth → checkout → webhooks.  
-- Clean architecture & 95% code coverage.
+### 🛒 Amazon Clone — Full-Stack E-Commerce
+- **Flutter · Node.js · MongoDB · Paystack**
+- Implemented full e-commerce flow: authentication, cart, checkout, and payment webhooks.
+- Designed with clean architecture principles for scalability and long-term maintainability.
 
-### 🎬 MovieMadness – 4,000+ Play-Store Users
-- **Flutter + Firebase (Firestore + Auth)**  
-- Trailers, wishlists, reviews—real-time sync across devices.  
-- Refactored to MVVM; reduced widget rebuilds by 40%.
+### 🎬 MovieMadness — 4,000+ Play Store Users
+- **Flutter · Firebase (Firestore & Auth)**
+- Movie discovery app featuring trailers, wishlists, and reviews.
+- Refactored to MVVM architecture, significantly reducing unnecessary widget rebuilds and improving UI responsiveness.
 
 ---
 
 ## 💼 Experience
 
-**Mobile Developer – Morayo Hospital**  
-Badagry, Lagos | Oct 2023 – Sep 2024  
-- Boosted app performance **15%** via Riverpod & lazy-list techniques.  
-- Delivered HIPAA-compliant modules (auth, tele-consult, e-prescription).  
-- Owned full life-cycle: requirements → CI/CD → Play-Store release.
+**Mobile Developer — Morayo Hospital**  
+Badagry, Lagos | Oct 2023 – Sep 2024
+
+- Improved application performance through optimized state management and efficient widget rendering.
+- Developed secure healthcare modules including authentication, tele-consultation, and e-prescriptions.
+- Managed the full development lifecycle: requirements gathering, implementation, CI/CD, and Play Store deployment.
 
 ---
 
 ## 🎓 Education
 
-B.Sc. Computer Science – Redeemer’s University, Osun (2018–2022)
+**B.Sc. Computer Science**  
+Redeemer’s University, Osun State (2018–2022)
 
 ---
 
-## 📊 GitHub Pulse
+## 📊 GitHub Activity
 
 <div align="center">
 
-  <!-- Overall GitHub Stats -->
-  <img height="165"
-       alt="GitHub Stats for oghosa1"
-       src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&theme=radical&hide_title=true"/>
+<img height="165"
+     src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
+     alt="GitHub Stats"/>
 
-  <!-- Top Languages -->
-  <img height="165"
-       alt="Top Languages for oghosa1"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical&hide_title=true"/>
+<img height="165"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
+     alt="Top Languages"/>
 
 </div>
 
 <div align="center" style="margin-top: 12px;">
 
-  <!-- Commits chart (year overview) -->
-  <img width="720"
-       alt="GitHub contribution chart for oghosa1"
-       src="https://ghchart.rshah.org/oghosa1"/>
+<img width="390"
+     src="https://github-readme-streak-stats.herokuapp.com?user=oghosa1&theme=radical&hide_border=true"
+     alt="GitHub Streak"/>
 
-</div>
-
-<div align="center" style="margin-top: 12px;">
-  <img width="390"
-       alt="GitHub Streak for oghosa1"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=oghosa1&theme=dark"/>
 </div>
 
 ---
 
 ## 🌍 Let’s Connect
 
-- 🌐 [guerrilladev.xyz](https://guerrilladev.xyz)  
-- 📧 [jarviz101@gmail.com](mailto:jarviz101@gmail.com)  
-- 🐙 [github.com/oghosa1](https://github.com/oghosa1)
+- 🌐 **Website:** https://guerrilladev.xyz  
+- 📧 **Email:** jarviz101@gmail.com  
+- 🐙 **GitHub:** https://github.com/oghosa1  
 
 ---
 
-Made with ❤️ by Isaac
+**Built with focus, discipline, and intent — Isaac**
