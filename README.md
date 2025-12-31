@@ -18,7 +18,21 @@ I prioritize **clean MVVM architecture**, **high-performance UIs**, and **mainta
 ## 🚀 Featured Projects
 
 ### 🛒 Amazon Clone — Full-Stack E-Commerce
-- **Flutter · Node.js · MongoDB · Paystack**
+- **Flutter · Node.js · MongoDB · Paystack**<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&rank_icon=github&theme=radical&hide_border=true"
+  height="165"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical&hide_border=true&langs_count=8"
+  height="165"
+  alt="Top Languages"
+/>
+
+</div>
 - Implemented full e-commerce flow: authentication, cart, checkout, and payment webhooks.
 - Designed with clean architecture principles for scalability and long-term maintainability.
 
@@ -49,19 +63,12 @@ Redeemer’s University, Osun State (2018–2022)
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<div align="center" style="margin-top: 12px;">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&rank_icon=github&theme=radical&hide_border=true"
-  height="165"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical&hide_border=true&langs_count=8"
-  height="165"
-  alt="Top Languages"
-/>
+  <!-- Commits chart (year overview) -->
+  <img width="720"
+       alt="GitHub contribution chart for oghosa1"
+       src="https://ghchart.rshah.org/oghosa1"/>
 
 </div>
 
