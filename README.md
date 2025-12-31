@@ -26,12 +26,6 @@ I prioritize **clean MVVM architecture**, **high-performance UIs**, and **mainta
   alt="GitHub Stats"
 />
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical&hide_border=true&langs_count=8"
-  height="165"
-  alt="Top Languages"
-/>
-
 </div>
 - Implemented full e-commerce flow: authentication, cart, checkout, and payment webhooks.
 - Designed with clean architecture principles for scalability and long-term maintainability.
