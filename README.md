@@ -20,12 +20,6 @@ I prioritize **clean MVVM architecture**, **high-performance UIs**, and **mainta
 ### 🛒 Amazon Clone — Full-Stack E-Commerce
 - **Flutter · Node.js · MongoDB · Paystack**<div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&rank_icon=github&theme=radical&hide_border=true"
-  height="165"
-  alt="GitHub Stats"
-/>
-
 </div>
 - Implemented full e-commerce flow: authentication, cart, checkout, and payment webhooks.
 - Designed with clean architecture principles for scalability and long-term maintainability.
