@@ -51,23 +51,30 @@ Redeemer’s University, Osun State (2018–2022)
 
 <div align="center">
 
-<img height="165"
-     src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800"
-     alt="GitHub Stats"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=oghosa1&show_icons=true&rank_icon=github&theme=radical&hide_border=true"
+  height="165"
+  alt="GitHub Stats"
+/>
 
-<img height="165"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical&hide_border=true&cache_seconds=1800"
-     alt="Top Languages"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghosa1&layout=compact&theme=radical&hide_border=true&langs_count=8"
+  height="165"
+  alt="Top Languages"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=oghosa1&theme=radical&hide_border=true"
+  height="180"
+  alt="GitHub Streak"
+/>
 
 </div>
 
-<div align="center" style="margin-top: 12px;">
-
-<img width="390"
-     src="https://github-readme-streak-stats.herokuapp.com?user=oghosa1&theme=radical&hide_border=true"
-     alt="GitHub Streak"/>
-
-</div>
 
 ---
 
